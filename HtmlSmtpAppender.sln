@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlSmtpAppender", "HtmlSmtpAppender\HtmlSmtpAppender.csproj", "{6DAC9ACE-85A6-45E2-BDAB-1C87223D14EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlSmtpAppenderUnitTests", "HtmlSmtpAppenderUnitTests\HtmlSmtpAppenderUnitTests.csproj", "{610E8ACC-79FF-48CF-B8F1-BCF3D8751015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlSmtpAppenderIntegrationTests", "HtmlSmtpAppenderIntegrationTests\HtmlSmtpAppenderIntegrationTests.csproj", "{3699BEA5-7C91-4B42-81CE-80CED40FFEED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DAC9ACE-85A6-45E2-BDAB-1C87223D14EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DAC9ACE-85A6-45E2-BDAB-1C87223D14EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DAC9ACE-85A6-45E2-BDAB-1C87223D14EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DAC9ACE-85A6-45E2-BDAB-1C87223D14EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610E8ACC-79FF-48CF-B8F1-BCF3D8751015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610E8ACC-79FF-48CF-B8F1-BCF3D8751015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610E8ACC-79FF-48CF-B8F1-BCF3D8751015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610E8ACC-79FF-48CF-B8F1-BCF3D8751015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3699BEA5-7C91-4B42-81CE-80CED40FFEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3699BEA5-7C91-4B42-81CE-80CED40FFEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3699BEA5-7C91-4B42-81CE-80CED40FFEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3699BEA5-7C91-4B42-81CE-80CED40FFEED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
