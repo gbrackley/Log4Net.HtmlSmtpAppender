@@ -3,7 +3,7 @@
 A SMTP appender for Log4Net that will send a small history of messages when a threshold is reached.
 
 The appender works by keeping a ring buffer of the last few messages. When a triggering log
-message is received (e.f warning or more severe), then the entire buffer including the triggering
+message is received (e.g. warning or more severe), then the entire buffer including the triggering
 message is emailed to the recipients. This means the previous messages with context information 
 will be received.
 
